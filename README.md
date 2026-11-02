@@ -47,4 +47,4 @@ alt="git logo" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Luccascosta-dev.Luccascosta-dev&" />
 </div>
 
- <p align="left">luccas.costa.dev@gmail</p>
+ <p align="left">E-mail:luccas.costa.dev@gmai.coml</p>
