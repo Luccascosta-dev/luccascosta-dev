@@ -4,7 +4,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
-###
+##
 
 <h1 data-importer="text" align="left">Hey 👋🏽</h1>
 
